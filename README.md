@@ -1,5 +1,6 @@
 # DA-Projects
 Author - husnain zahoor
+
 Customer Purchase Data Cleaning & Sales Dashboard (Excel):
 •	Handled missing values in Purchase Amount, Review Rating, and Age using mean or median based on data distribution.
 •	Removed or replaced text entries like “Not Available”.
